@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class MainTest {
   @Test
-  void sampleTest() {
+  public void sampleTest() {
     assertTrue(true);
   }
 }
