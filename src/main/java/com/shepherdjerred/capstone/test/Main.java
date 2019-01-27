@@ -4,5 +4,7 @@ public class Main {
   public static void main(String[] args) {
     System.out.println("Hello, world!");
     new Chase().newString("Wassup dude");
+    new Jerred().newString("Hello!");
+    new AustinJarrettClass().newString("This is a string");
   }
 }
